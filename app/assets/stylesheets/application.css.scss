@@ -63,8 +63,8 @@ h1, h2, h3 {
   background-color: white;
 }
 .navbar-default .navbar-toggle {
-  border: 2px,solid, white;
+  border: none;
   &:hover, &:focus {
-    background-color: #00b09b;
+    background-color: #3f4c6b;
   }
 }
