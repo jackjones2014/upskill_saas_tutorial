@@ -32,6 +32,9 @@ gem 'jbuilder', '2.5.0'
 # Use bootstrap lib for front end UI/UX 
 gem 'bootstrap-sass', '3.3.7'
 
+# Use fontawesome sass gem for icon catalog
+gem 'font-awesome-sass', '5.2.0'
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3', '1.3.13'
