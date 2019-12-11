@@ -13,7 +13,7 @@
  *= require_tree .
  *= require_self
  */
- 
+
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
 @import 'font-awesome-sprockets';
@@ -21,7 +21,7 @@
 
 // Typography styles
 h1, h2, h3 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', Sans-serif ;
 }
 
 //Gradient
@@ -39,6 +39,7 @@ h1, h2, h3 {
 }
 .navbar-default .navbar-brand, 
 .navbar-default .navbar-nav > li > a  {
+  font-family: 'Roboto Mono', Monospace;
   color: white;
   &:hover {
     color: white;
