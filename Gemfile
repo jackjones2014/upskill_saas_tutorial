@@ -65,4 +65,10 @@ gem 'hirb', '0.7.3'
 #use devise gem for user auth
 gem 'devise', '4.2.0'
 
+#use stripe gem for payments
+gem 'stripe', '1.48.0'
+
+#use figaro for ENV variables
+gem 'figaro', '1.1.1'
+
 ruby '2.3.0'
