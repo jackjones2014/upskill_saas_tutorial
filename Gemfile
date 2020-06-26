@@ -30,7 +30,7 @@ gem 'jbuilder', '2.5.0'
 # gem 'capistrano-rails', group: :development
 
 # Use bootstrap lib for front end UI/UX 
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 
 # Use fontawesome sass gem for icon catalog
 gem 'font-awesome-sass', '5.2.0'
